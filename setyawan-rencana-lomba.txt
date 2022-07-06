@@ -1,8 +1,12 @@
 RENCANA LOMBA SETYAWAN
 - UI/UX Design
  * Mobile App
+  ^ menganalisa data
  * Web Design
 - Backend
 - Frontend 
+  ^HTML
+  ^CSS
 - IOT 
 - Poster Design
+- Batik Design
