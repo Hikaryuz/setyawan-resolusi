@@ -6,8 +6,6 @@ RENCANA LOMBA SETYAWAN
  * Web Design
 - Backend
 - Frontend 
-  ^HTML
-  ^CSS
 - IOT 
 - Poster Design
 - Batik Design
