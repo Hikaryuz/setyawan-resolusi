@@ -1,0 +1,6 @@
+Halo bg, Nama saya IMG dari tadi
+
+Resolusi Saya:
+- Saya ingin belajar HTML, CSS, JS dasar
+- Saya ingin belajar Golang, Git dan Github, My SQL
+- saya ingin membuat project yang statis
