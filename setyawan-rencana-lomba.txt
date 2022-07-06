@@ -1,8 +1,12 @@
 RENCANA LOMBA SETYAWAN
 - UI/UX Design
  * Mobile App
+  ^ Mockup
+  ^ Prototyping
  * Web Design
 - Backend
 - Frontend 
+  ^ HTML
+  ^ CSS
 - IOT 
 - Poster Design
