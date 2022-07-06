@@ -2,6 +2,7 @@ RENCANA LOMBA SETYAWAN
 - UI/UX Design
  * Mobile App
   ^ menganalisa data
+  ^ Wireframing
  * Web Design
 - Backend
 - Frontend 
