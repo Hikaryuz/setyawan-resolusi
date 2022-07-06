@@ -3,6 +3,8 @@ RENCANA LOMBA SETYAWAN
  * Mobile App
   ^ menganalisa data
   ^ Wireframing
+  ^ Mockup
+  ^ Prototyping
  * Web Design
 - Backend
 - Frontend 
